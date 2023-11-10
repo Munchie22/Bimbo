@@ -1,0 +1,65 @@
+h1 {
+  text-align: center;
+  color: white;
+  font-family: arial;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-family: arial;
+}
+
+#para1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#para2 {
+  text-align: center;
+  font-family: arial;
+}
+
+body {
+  background-color: #73e750
+}
+
+aside {
+  width: 200px;
+  float: left;
+}
+
+nav {
+  float: both;
+  background-color: #F6921E;
+}
+
+footer {
+  background-color: #009999;
+  color: white;
+  width: 1000px;
+  height: 100px;
+  float: left;
+}
+
+header {
+  width: 1000px;
+  height: 150px;
+}
+
+#grad1 {
+  height: 750px;
+  background: linear-gradient(to top, #00427A, #F6921E);
+}
+
+#shatext {
+  text-shadow: 4px 4px 4px #000000;
+}
+
+#para3 {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid orange;
+  padding: 50px;
+  margin: 20px;
+}
